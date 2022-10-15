@@ -29,7 +29,9 @@
 
 从上至下、层层深入，揭示区块链是如何在现有技术上一步步创造出来的，这些精妙的思想和关于“信用即货币”的哲学才是其最大的魅力所在。
 
-推荐有一定后端编程经验（尤其是分布式业务系统）参考助学！ [完整脑图](https://mm.edrawsoft.cn/wx.html?work_id=130269)
+推荐有一定后端编程经验（尤其是分布式业务系统）参考助学！ [完整脑图](http://kjeek.com/blockchain/awesome-bitcoin/)
+
+![](./snaps/btc-eq.png)
 
 ![思维导图](./doc/区块链Blockchain.png)
 
